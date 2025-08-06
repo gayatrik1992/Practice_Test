@@ -1,2 +1,4 @@
 hello-world
 This is Gayatri!
+It is a beautiful day outside!
+Let's go bird watching.
