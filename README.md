@@ -1,0 +1,1 @@
+This is my first github repo. I have created an example.txt file on my local repo to learn git commit & push changes from my local repo to this GitHub repo. I have also created this README file to understand pull changes to be synced from this Github repo to my local repo. Thank you!
